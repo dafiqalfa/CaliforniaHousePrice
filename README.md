@@ -1,4 +1,17 @@
 Cyclistic Project
+
+Business Problem Understanding
+------------
+Problem Statement
+
+Karena harga rumah yang sangat bervariasi, maka menentukan harga rumah yang sesuai sangatlah penting bagi yang ingin menjual dan membeli rumah.
+
+Salah satu tantangan terbesar bagi agen properti/broker adalah pemecahan masalah untuk dapat memiliki model bisnis yang menguntungkan secara finansial, serta dapat memberikan pengalaman positif penjual dan pembeli rumah.
+
+Mengingat kebebasan penuh kepada pemilik rumah untuk menentukan harga rumah mereka, dengan hanya memberikan petunjuk minimal yang memungkinkan tuan rumah membandingkan tempat serupa di lingkungan mereka untuk mendapatkan harga yang kompetitif. Pemilik rumah pun dapat memasukkan harga yang lebih tinggi untuk fasilitas tambahan apa pun yang mereka anggap perlu. Dengan meningkatnya jumlah jual beli rumah, menentukan harga yang tepat untuk dapat kompetitif di lingkungan sekitar sangatlah penting.
+------------
+
+
 ==============================
 
 Design marketing strategies aimed at converting casual riders into annual members.
